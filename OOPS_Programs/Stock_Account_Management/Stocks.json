@@ -1,0 +1,5 @@
+{
+"A": {"name": "A", "price": "100", "count": "12"},
+"B": {"name": "B", "price": "50", "count": "10"},
+"C": {"name": "C", "price": "15", "count": "20"}
+}
