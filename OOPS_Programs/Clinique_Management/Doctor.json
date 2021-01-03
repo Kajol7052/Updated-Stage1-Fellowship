@@ -1,0 +1,5 @@
+{
+    "1": {"id": "1","name": "A", "spec": "A", "avail": "12AM,12PM"},
+    "2": {"id": "2","name": "B", "spec": "B", "avail": "12AM,12PM"}
+}
+    
