@@ -1,0 +1,22 @@
+{
+    "items": {
+        "pulse": {
+            "TotalPrice": 195,
+            "name": "greens",
+            "price_per_kg": 65,
+            "weight": 3
+        },
+        "rice": {
+            "TotalPrice": 350,
+            "name": "basmati",
+            "price_per_kg": 50,
+            "weight": 7
+        },
+        "wheats": {
+            "TotalPrice": 225,
+            "name": "chakki_fresh",
+            "price_per_kg": 45,
+            "weight": 5
+        }
+    }
+}
