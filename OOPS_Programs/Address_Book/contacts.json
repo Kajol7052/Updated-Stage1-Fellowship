@@ -1,0 +1,29 @@
+{
+     "John": {
+          "city": "Califormia",
+          "email": "john432@gmail.com",
+          "lname": "Mc Broom",
+          "name": "John",
+          "phone": "5477865421",
+          "state": "NY",
+          "zip": "3212321"
+     },
+     "Kajol": {
+          "city": "Bengaluru",
+          "email": "kajol7052@gmail.com",
+          "lname": "Patira",
+          "name": "Kajol",
+          "phone": "7899856021",
+          "state": "Karnataka",
+          "zip": "560087"
+     },
+     "Lisa": {
+          "city": "Ahmdabad",
+          "email": "lisa@gmail.com",
+          "lname": "S",
+          "name": "Lisa",
+          "phone": "2314324355",
+          "state": "Gujarat",
+          "zip": "654321"
+     }
+}
